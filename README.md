@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iam-Abhishek-Arya
+- 👋 Hi, I’m Abhishek Arya
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
